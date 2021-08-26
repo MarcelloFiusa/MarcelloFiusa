@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcelloFiusa
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning python, git and java
+- 🌱 I’m currently learning python, git and java on @CESARSCHOOL
 - 📫 How to reach me @marcellofiusa on any social midia
 
 <!---
