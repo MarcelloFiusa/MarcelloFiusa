@@ -1,14 +1,13 @@
 ## Olá! Eu sou o Marcello Fiusa!
 
-- 👋 Hi, I’m @MarcelloFiusa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python, git and java on @CESARSCHOOL
-- 📫 How to reach me @marcellofiusa on any social midia
+- 👋 Olá! Estou em transição de carreira, recém formado em Engenharia Civil e migrando para a área de T.I
+- 👀 Estou buscando minha primeira oportunidade neste vasto mercado!
+- 🌱 Estou participando do NExT, projeto da @CESARSCHOOL! Aprendendo os básicos de Python e Java, como também de versionamento (GIT), Banco de dados (SQL) e Framework (SPRING)
 
 <div>
   <a href="https://github.com/MarcelloFiusa">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=marcellofiusa&show_icons=true&theme=dark"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellofiusa&layout=compact&theme=dark"/>
+  <img height="145cm" src="https://github-readme-stats.vercel.app/api?username=marcellofiusa&show_icons=true&theme=dark"/>
+  <img height="145cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellofiusa&layout=compact&theme=dark"/>
 </div> 
   
 ##
